@@ -18,4 +18,18 @@ h1{
     color: blue;
 } 
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    border: 6px solid black;
+   
+
+}
+
+    
+    
+
 
